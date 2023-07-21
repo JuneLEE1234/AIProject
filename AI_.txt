@@ -1,1 +1,4 @@
 print('Artificial Intelligence')
+def AI :
+	print('지도 학습')
+	print('비지도 학습')
